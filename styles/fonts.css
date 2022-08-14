@@ -1,0 +1,86 @@
+/* GothicA1 */
+@font-face {
+  font-family: 'GothicA1';
+  font-weight: 700;
+  font-display: swap;
+  src: local('GothicA1 Bold'), url('./fonts/GothicA1-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GothicA1';
+  font-weight: 500;
+  font-display: swap;
+  src: local('GothicA1 Medium'), url('./fonts/GothicA1-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GothicA1';
+  font-weight: 400;
+  font-display: swap;
+  src: local('GothicA1 Regular'), url('./fonts/GothicA1-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'GothicA1';
+  font-weight: 300;
+  font-display: swap;
+  src: local('GothicA1 Light'), url('./fonts/GothicA1-Light.ttf') format('truetype');
+}
+
+/* Ubuntu */
+@font-face {
+  font-family: 'Ubuntu';
+  font-weight: 700;
+  font-display: swap;
+  src: local('Ubuntu Bold'), url('./fonts/Ubuntu-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-weight: 500;
+  font-display: swap;
+  src: local('Ubuntu Medium'), url('./fonts/Ubuntu-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-weight: 400;
+  font-display: swap;
+  src: local('Ubuntu Regular'), url('./fonts/Ubuntu-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Ubuntu';
+  font-weight: 300;
+  font-display: swap;
+  src: local('Ubuntu Light'), url('./fonts/Ubuntu-Light.ttf') format('truetype');
+}
+
+/* Ubuntu */
+@font-face {
+  font-family: 'Rubik';
+  font-weight: 700;
+  font-display: swap;
+  src: local('Rubik Bold'), url('./fonts/Rubik-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Rubik';
+  font-weight: 500;
+  font-display: swap;
+  src: local('Rubik Medium'), url('./fonts/Rubik-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Rubik';
+  font-weight: 400;
+  font-display: swap;
+  src: local('Rubik Regular'), url('./fonts/Rubik-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'Rubik';
+  font-weight: 300;
+  font-display: swap;
+  src: local('Rubik Light'), url('./fonts/Rubik-Light.ttf') format('truetype');
+}
